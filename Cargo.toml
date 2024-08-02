@@ -3,3 +3,5 @@ members = [
     "adder",
     "add_one",
     ]
+
+default-members = ["adder"]
